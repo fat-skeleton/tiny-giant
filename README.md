@@ -1,2 +1,3 @@
 # tiny-giant
-my first github repository
+
+I'm still learning how to use repository
